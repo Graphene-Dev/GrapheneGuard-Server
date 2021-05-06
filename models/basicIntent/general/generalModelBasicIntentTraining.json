@@ -1,0 +1,118 @@
+[
+  {
+    "text": "buy",
+    "intent": "buy"
+  },
+  {
+    "text": "buying",
+    "intent": "buy"
+  },
+  {
+    "text": "purchase",
+    "intent": "buy"
+  },
+  {
+    "text": "buy that",
+    "intent": "buy"
+  },
+  {
+    "text": "buy this",
+    "intent": "buy"
+  },
+  {
+    "text": "buy it",
+    "intent": "buy"
+  },
+  {
+    "text": "where to buy",
+    "intent": "buy"
+  },
+  {
+    "text": "where can I buy that",
+    "intent": "buy"
+  },
+  {
+    "text": "how much",
+    "intent": "buy"
+  },
+  {
+    "text": "Woah yess❤️❤️",
+    "intent": "none"
+  },
+  {
+    "text": "Happy birthday to the most beautiful woman on Instagram ! 💗💗",
+    "intent": "none"
+  },
+  {
+    "text": "Your body 😍",
+    "intent": "none"
+  },
+  {
+    "text": "Angel",
+    "intent": "none"
+  },
+  {
+    "text": "I saw this swimsuit on a website and wasn’t convinced, but you rock it and now I want to buy it",
+    "intent": "buy"
+  },
+  {
+    "text": "So cute..sexy, sexy",
+    "intent": "none"
+  },
+  {
+    "text": "Ooo i need to look like u girl!! Gonna hit the gym now",
+    "intent": "none"
+  },
+  {
+    "text": "Beautiful👍💜",
+    "intent": "none"
+  },
+  {
+    "text": "😱😱💖💖",
+    "intent": "none"
+  },
+  {
+    "text": "What is your workout routine? It would be lovely if you could share 😍😍😍",
+    "intent": "none"
+  },
+  {
+    "text": "Woah yess❤️❤️",
+    "intent": "none"
+  },
+  {
+    "text": "Happy birthday to the most beautiful woman on Instagram ! 💗💗",
+    "intent": "none"
+  },
+  {
+    "text": "Your body 😍",
+    "intent": "none"
+  },
+  {
+    "text": "Angel",
+    "intent": "none"
+  },
+  {
+    "text": "I saw this swimsuit on a website and wasn’t convinced, but you rock it and now I want to buy it",
+    "intent": "buy"
+  },
+  {
+    "text": "So cute..sexy, sexy",
+    "intent": "none"
+  },
+  {
+    "text": "Ooo i need to look like u girl!! Gonna hit the gym now",
+    "intent": "none"
+  },
+  {
+    "text": "Beautiful👍💜",
+    "intent": "none"
+  },
+  {
+    "text": "😱😱💖💖",
+    "intent": "none"
+  },
+  {
+    "text": "What is your workout routine? It would be lovely if you could share 😍😍😍",
+    "intent": "none"
+  }
+]

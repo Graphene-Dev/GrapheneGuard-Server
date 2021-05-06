@@ -1,3 +1,4 @@
+//Start website code
 const https = require('https');
 const fs = require('fs');
 
@@ -10,3 +11,6 @@ https.createServer(options, function (req, res) {
     res.writeHead(200);
     res.end("hello world\n");
 }).listen(8000);
+//End website code
+
+// to run the ml and create the ml files run the actuall js files themselves
