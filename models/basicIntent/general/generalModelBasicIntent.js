@@ -73,10 +73,14 @@ function run() {
             model.fit(training_data, outputData, { epochs: 200 })
                 .then(history => {
                     model.predict(testing_data).print();
-                });
+                }).then(e=>{
+                model.save("file://generalModelBasicIntent_TSmodel")
+                }
+               )
         })
         .catch(err => console.log('Prom Err:', err));
 };
 
 // Call function
 run();
+
